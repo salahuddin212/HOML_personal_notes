@@ -1,2 +1,2 @@
 # HOML_personal_notes
-My personal notes studying from the book Hand's on Machine learning with scikit-learn...
+My personal notes studying from the book Hand's on Machine learning with scikit-learn, Keras, and TensorFlow
